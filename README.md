@@ -6,7 +6,9 @@ Test out this [lead scoring model demo on Booklet.ai.](https://app.booklet.ai/mo
 
 ## Setup
 
-This example is build with Python `3.8.2`
+This example is built with Python `3.8.2`
+
+After cloning this repo and entering the directory with `cd lead-scoring-demo`
 
 ```
 python3 -m venv lead-scoring
