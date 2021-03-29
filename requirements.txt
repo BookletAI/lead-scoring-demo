@@ -41,7 +41,7 @@ prometheus-flask-exporter==0.13.0
 prompt-toolkit==3.0.5
 protobuf==3.12.2
 ptyprocess==0.6.0
-Pygments==2.6.1
+Pygments==2.7.4
 python-dateutil==2.8.1
 python-editor==1.0.4
 pytz==2020.1
